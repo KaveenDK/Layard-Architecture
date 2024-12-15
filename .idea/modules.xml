@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Layered Architecture.iml" filepath="$PROJECT_DIR$/Layered Architecture.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Loose coupling/Loose coupling.iml" filepath="$PROJECT_DIR$/Loose coupling/Loose coupling.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Tight coupling/Tight coupling.iml" filepath="$PROJECT_DIR$/Tight coupling/Tight coupling.iml" />
+    </modules>
+  </component>
+</project>
