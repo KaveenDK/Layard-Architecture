@@ -2,8 +2,12 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/Constructor Injection/Constructor Injection.iml" filepath="$PROJECT_DIR$/Constructor Injection/Constructor Injection.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Interface Injection/Interface Injection.iml" filepath="$PROJECT_DIR$/Interface Injection/Interface Injection.iml" />
       <module fileurl="file://$PROJECT_DIR$/Layered Architecture.iml" filepath="$PROJECT_DIR$/Layered Architecture.iml" />
       <module fileurl="file://$PROJECT_DIR$/Loose coupling/Loose coupling.iml" filepath="$PROJECT_DIR$/Loose coupling/Loose coupling.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Propety Injection/Propety Injection.iml" filepath="$PROJECT_DIR$/Propety Injection/Propety Injection.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Setter Method Injection/Setter Method Injection.iml" filepath="$PROJECT_DIR$/Setter Method Injection/Setter Method Injection.iml" />
       <module fileurl="file://$PROJECT_DIR$/Tight coupling/Tight coupling.iml" filepath="$PROJECT_DIR$/Tight coupling/Tight coupling.iml" />
     </modules>
   </component>
